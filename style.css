@@ -1,0 +1,27 @@
+
+.tipo_produto{
+    color: rgb(247, 14, 14);
+}
+
+.preco-a-vista{
+    color: chartreuse;
+}
+
+.produto{
+
+background-color: blue;
+color: azure;
+padding: 15px 30px;
+margin-top: 10px;
+font-size: 12px
+
+}
+
+.frete{
+    background-color: aqua;
+    padding: 10px ;
+}
+
+.valo-do-frete{
+    color: darkorange;
+}
